@@ -1,0 +1,25 @@
+{
+  "name": "irudi",
+  "version": "0.1",
+  "authors": [
+    "Merqurio <gabriel.maeztu@gmail.com>"
+  ],
+  "description": "A micro CSS Framework",
+  "keywords": [
+    "CSS",
+    "Framework",
+    "Agile"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.2",
+    "gridism": "~0.2.1"
+  }
+}
