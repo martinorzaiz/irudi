@@ -1,6 +1,7 @@
 # Irudi
 
 A micro CSS framework. Some basic CSS + a [grid](http://cobyism.com/gridism/).
+Try the demo --> [DEMO](http://chroma-branding.github.io/irudi)
 
 ## Why?
 
