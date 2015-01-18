@@ -257,6 +257,9 @@ th:last-child,
 td:last-child {
   padding-right: 0; }
 
+table.table-hovered tbody tr:hover td {
+  background-color: #f4f4f4;
+}
 
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
