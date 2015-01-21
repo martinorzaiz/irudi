@@ -5,7 +5,7 @@ Try the demo --> [DEMO](http://chroma-branding.github.io/irudi)
 
 ## Why?
 
-When I design web layouts, I don't like to find code I don't know about. I like building with minimum possible resources
+When we design web layouts, we don't like to find code we don't know about. We love building with minimum possible resources.
 
 < than 350 lines. You can't be so lazy man..
 
@@ -42,7 +42,7 @@ No Gulp. No Grunt. Want it ? Maybe soon
 
 ## Browser support
 
-I :heart: [evergreen browser](http://www.yeti.co/blog/evergreen-web-browser/) only.
+We :heart: [evergreen browser](http://www.yeti.co/blog/evergreen-web-browser/) only.
 
 - Chrome latest
 - Firefox latest
@@ -53,7 +53,7 @@ I :heart: [evergreen browser](http://www.yeti.co/blog/evergreen-web-browser/) on
 
 ## Contributing
 
-I’d :heart: to receive contributions to this project. It doesn’t matter if it’s just a typo, or if you’re proposing an overhaul of the entire project—I’ll gladly take a look at your changes. Fork at will! :grinning:.
+We’d :heart: to receive contributions to this project. It doesn’t matter if it’s just a typo, or if you’re proposing an overhaul of the entire project—I’ll gladly take a look at your changes. Fork at will! :grinning:.
 
 ## License
 
